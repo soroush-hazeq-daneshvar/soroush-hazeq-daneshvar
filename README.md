@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soroush-hazeq-daneshvar
-- 👀 I’m interested in Infromation Security and DevOps
-- 🌱 I’m currently learning anything that I can
-- 💞️ I’m looking to collaborate on security efforts and make my Devops career
+- 👀 I’m interested in DevOps and DevSecOps
+- 🌱 I’m currently improving my skills
+- 💞️ I’m looking to collaborate on devops and devsecops
 - 📫 How to reach me soroush.man.hd@gmail.com
 
 <!---
